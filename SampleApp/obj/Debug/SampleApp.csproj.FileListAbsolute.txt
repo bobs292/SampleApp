@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\User\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\User\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Ball.dll
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Board.dll
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Paddle.dll
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Board.pdb
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Paddle.pdb
+C:\Users\User\source\repos\SampleApp\SampleApp\bin\Debug\Ball.pdb
+C:\Users\User\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.Up2Date

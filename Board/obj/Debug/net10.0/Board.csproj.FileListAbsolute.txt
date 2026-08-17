@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.AssemblyInfo.cs
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SampleApp\Board\bin\Debug\net10.0\Board.deps.json
+C:\Users\User\source\repos\SampleApp\Board\bin\Debug\net10.0\Board.dll
+C:\Users\User\source\repos\SampleApp\Board\bin\Debug\net10.0\Board.pdb
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.dll
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\refint\Board.dll
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\Board.pdb
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net10.0\ref\Board.dll

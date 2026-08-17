@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.AssemblyInfo.cs
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SampleApp\Paddle\bin\Debug\net472\Paddle.dll
+C:\Users\User\source\repos\SampleApp\Paddle\bin\Debug\net472\Paddle.pdb
+C:\Users\User\source\repos\SampleApp\Paddle\bin\Debug\net472\Board.dll
+C:\Users\User\source\repos\SampleApp\Paddle\bin\Debug\net472\Board.pdb
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.csproj.Up2Date
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.dll
+C:\Users\User\source\repos\SampleApp\Paddle\obj\Debug\net472\Paddle.pdb

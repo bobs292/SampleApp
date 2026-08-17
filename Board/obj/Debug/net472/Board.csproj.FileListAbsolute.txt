@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.AssemblyInfo.cs
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SampleApp\Board\bin\Debug\net472\Board.dll
+C:\Users\User\source\repos\SampleApp\Board\bin\Debug\net472\Board.pdb
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.dll
+C:\Users\User\source\repos\SampleApp\Board\obj\Debug\net472\Board.pdb
